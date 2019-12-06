@@ -1,4 +1,4 @@
-# s3-storage-tiering
+# NAS-Storage-Tiering
 ## 1. Introduction
 
 It is very common to utilize remote network filesystem for data storage as an effective, scalable, low-cost storage solution. Based on that, we built a software named RAT-FS to provide a large local disk cache for a remote network filesystem.
